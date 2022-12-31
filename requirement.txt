@@ -1,0 +1,6 @@
+# pip freeze | grep -i xxxxxxxxx
+
+
+pyTelegramBotAPI==4.8.0
+
+loguru==0.6.0
