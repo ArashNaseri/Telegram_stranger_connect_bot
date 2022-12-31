@@ -2,13 +2,13 @@
 
 ## How to Run
 
-First add ’PYTHONPASS’ environrment variable in repository directory  by running:
+First add `PYTHONPASS` environrment variable in repository directory  by running:
 
-’’’
+```bash
 export PYTHONPASS=${PWD}
-’’’
+```
 Then run:
 
-’’’python
-python src/main.py 
-’’’
+```bash
+python src/main.py
+```
